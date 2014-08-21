@@ -19,7 +19,6 @@ class NoteRepository extends EntityRepository
             ->join('n.targets','t','WITH','t.id = :id')
             ->andWhere('t.id != :id')
             ->setParameter('id', $user);
-
         return $query->getQuery()->getResult();
     }
 
