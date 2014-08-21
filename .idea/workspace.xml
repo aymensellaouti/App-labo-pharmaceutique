@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cada60f6-f23c-454e-a14d-9c584b4f32cb" name="Default" comment="" />
+    <ignored path="Application1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Application1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SiteController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Aym3ntn/SiteBundle/Controller/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="0" selection-start="1545" selection-end="1545" vertical-scroll-proportion="-5.1410255" vertical-offset="304" max-vertical-offset="825">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecteurRepository.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Entity/SecteurRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="0" selection-start="1101" selection-end="1101" vertical-scroll-proportion="-4.8717947" vertical-offset="160" max-vertical-offset="690">
+              <folding>
+                <marker date="1408652119000" expanded="true" signature="374:622" placeholder="SELECT s FRO..MedecinBundle..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoteRepository.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Entity/NoteRepository.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="552" selection-end="552" vertical-scroll-proportion="0.5145798" vertical-offset="0" max-vertical-offset="583">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoteController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Controller/NoteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="42" selection-start="1345" selection-end="1345" vertical-scroll-proportion="-10.541667" vertical-offset="437" max-vertical-offset="3555">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notes.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Note/notes.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="70" selection-start="495" selection-end="600" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="420">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/SiteBundle/Resources/public/css/style.css" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Entity/Medecin.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/config/routing/secteur.yml" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Form/SecteurType.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Secteur/new.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Secteur/edit.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Tests/Controller/TacheControllerTest.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Medecin/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Secteur/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Medecin/new.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/DataFixtures/ORM/LoadMedecins.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/DataFixtures/ORM/LoadUsers.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/DataFixtures/ORM/LoadSecteurs.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Form/MedecinType.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Controller/MedecinController.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Controller/SecteurController.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Secteur/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Medecin/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Form/TacheType.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Resources/config/routing/tache.yml" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Entity/ssTypeTache.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/DataFixtures/ORM/LoadTaches.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Resources/views/Tache/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Resources/views/Tache/new.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Note/new.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Note/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Note/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Controller/TacheController.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Entity/Tache.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Entity/Note.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Form/NoteType.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Resources/views/Tache/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Controller/NoteController.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/config/routing/note.yml" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Note/notes.html.twig" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Entity/Secteur.php" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Entity/SecteurRepository.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/SiteBundle/Controller/SiteController.php" />
+        <option value="$PROJECT_DIR$/App-labo-pharmaceutique/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Aym3ntn/UserBundle/Entity/NoteRepository.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="localhost" name="localhost" port="8888" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Tests" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bello" />
+    <property name="FullScreen" value="true" />
+    <property name="options.lastSelected" value="preferences.general" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Aym3ntn/TacheBundle" />
+      <recent name="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/DataFixtures/ORM" />
+      <recent name="$PROJECT_DIR$/src/Aym3ntn/MedecinBundle" />
+      <recent name="$PROJECT_DIR$/src/Aym3ntn/SiteBundle/Resources/public/css" />
+      <recent name="$PROJECT_DIR$/src/Aym3ntn/SiteBundle/Resources/public/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Aym3ntn/SiteBundle/Resources/public/css" />
+      <recent name="$PROJECT_DIR$/src/Aym3ntn/SiteBundle/Resources/public/js" />
+      <recent name="C:\wamp\www\Application1\src\Aym3ntn\UserBundle\Resources" />
+      <recent name="C:\wamp\www\Application1\src\Aym3ntn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.app">
+    <configuration default="false" name="new.html.twig" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/Application1/src/Aym3ntn/TacheBundle/Resources/views/Tache/new.html.twig">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="SAFARI" server_name="localhost" start_url="/Application1/web/app_dev.php/admin">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.app" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.new.html.twig" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.new.html.twig" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cada60f6-f23c-454e-a14d-9c584b4f32cb" name="Default" comment="" />
+      <created>1405941288329</created>
+      <updated>1405941288329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23493975" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20171674" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771084" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41686746" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2360515" sideWeight="0.32891566" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2360515" sideWeight="0.67108434" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2554217" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20171674" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771084" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39976552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41686746" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2360515" sideWeight="0.32891566" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2360515" sideWeight="0.67108434" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="72" selection-start="803" selection-end="803" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Entity/Medecin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="21" selection-start="1232" selection-end="1232" vertical-scroll-proportion="-24.291666" vertical-offset="467" max-vertical-offset="4155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/DataFixtures/ORM/LoadUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="38" selection-start="2444" selection-end="2444" vertical-scroll-proportion="-7.7083335" vertical-offset="715" max-vertical-offset="1815" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="475" column="20" selection-start="17050" selection-end="17050" vertical-scroll-proportion="0.7956349" vertical-offset="6724" max-vertical-offset="9660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/Type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4920" />
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/1e679a6d-5feb-485f-b42d-b5d906769a08.schema:insat">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>1e679a6d-5feb-485f-b42d-b5d906769a08.schema:insat</OriginalElement>
+          <nodes>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.medecin_tache</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.type_tache</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.medecin</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.Specialite</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.secteur</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.tache</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.ssTypeTache</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.LieuTache</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.user</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.secteur_user</node>
+            <node x="" y="">1e679a6d-5feb-485f-b42d-b5d906769a08.table:insat.note</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6490823251229745" x="462.0" y="513.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Entity/LieuTache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.46421662" vertical-offset="240" max-vertical-offset="2850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Entity/ssTypeTache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="470" selection-end="597" vertical-scroll-proportion="-13.125" vertical-offset="120" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Resources/config/routing/tache.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="67" selection-start="1032" selection-end="1051" vertical-scroll-proportion="0.8220339" vertical-offset="70" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/DataFixtures/ORM/LoadTaches.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="36" selection-start="2590" selection-end="2590" vertical-scroll-proportion="-15.0" vertical-offset="525" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Entity/TypeTache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="547" selection-end="674" vertical-scroll-proportion="0.58303887" vertical-offset="135" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="33" selection-start="606" selection-end="614" vertical-scroll-proportion="-6.875" vertical-offset="285" max-vertical-offset="2670">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Resources/views/Tache/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="96" selection-start="1584" selection-end="1584" vertical-scroll-proportion="-13.416667" vertical-offset="68" max-vertical-offset="2760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/my_layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Medecin/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="33" selection-end="414" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="945">
+          <folding>
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408377722000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bridge/Twig/Resources/views/Form/form_table_layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="8" selection-start="383" selection-end="383" vertical-scroll-proportion="0.3646409" vertical-offset="87" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Medecin/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="56" selection-start="3628" selection-end="3628" vertical-scroll-proportion="-43.125" vertical-offset="0" max-vertical-offset="1515">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Secteur/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="19" selection-start="1790" selection-end="1861" vertical-scroll-proportion="0.7254902" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Form/TacheType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="45" selection-start="1624" selection-end="1801" vertical-scroll-proportion="-24.916666" vertical-offset="197" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Resources/views/Tache/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="8" selection-start="2632" selection-end="2910" vertical-scroll-proportion="0.83827496" vertical-offset="323" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Note/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1185" selection-end="1185" vertical-scroll-proportion="-23.125" vertical-offset="0" max-vertical-offset="660">
+          <folding>
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="{% block body ...%}" />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1408620007000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Note/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="58" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.53984576" vertical-offset="0" max-vertical-offset="778">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Note/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="21" selection-start="490" selection-end="490" vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="724">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Entity/Tache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="0" selection-start="1621" selection-end="2122" vertical-scroll-proportion="-8.125" vertical-offset="855" max-vertical-offset="3510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.26957637" vertical-offset="0" max-vertical-offset="779">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="779">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Controller/TacheController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="63" selection-start="1585" selection-end="1686" vertical-scroll-proportion="-4.92" vertical-offset="534" max-vertical-offset="4755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Entity/TacheRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Form/NoteType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="25" selection-start="454" selection-end="454" vertical-scroll-proportion="0.2915952" vertical-offset="55" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Entity/Note.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="6" selection-start="569" selection-end="569" vertical-scroll-proportion="-14.583333" vertical-offset="145" max-vertical-offset="3255">
+          <folding>
+            <element signature="e#45#86#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/TacheBundle/Resources/views/Tache/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="63" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.45357144" vertical-offset="196" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Resources/views/Secteur/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="42" selection-start="314" selection-end="314" vertical-scroll-proportion="0.1663808" vertical-offset="23" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="51" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/SiteBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/config/routing/note.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="34" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="62" selection-start="3633" selection-end="3633" vertical-scroll-proportion="-16.083334" vertical-offset="679" max-vertical-offset="2580">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Entity/Secteur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1037" selection-end="1037" vertical-scroll-proportion="-14.375" vertical-offset="390" max-vertical-offset="2340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/MedecinBundle/Entity/SecteurRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="1101" selection-end="1101" vertical-scroll-proportion="-4.8717947" vertical-offset="160" max-vertical-offset="690">
+          <folding>
+            <marker date="1408652119000" expanded="true" signature="374:622" placeholder="SELECT s FRO..MedecinBundle..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Resources/views/Note/notes.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="70" selection-start="495" selection-end="600" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Controller/NoteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="42" selection-start="1345" selection-end="1345" vertical-scroll-proportion="-10.541667" vertical-offset="437" max-vertical-offset="3555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/bootstrap.php.cache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-10.726103" vertical-offset="5835" max-vertical-offset="46485">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UPGRADE.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-5.0459557" vertical-offset="2745" max-vertical-offset="26535">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/SiteBundle/Controller/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1545" selection-end="1545" vertical-scroll-proportion="-5.1410255" vertical-offset="304" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="159" selection-end="159" vertical-scroll-proportion="0.28350514" vertical-offset="0" max-vertical-offset="582">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="557">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aym3ntn/UserBundle/Entity/NoteRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="552" selection-end="552" vertical-scroll-proportion="0.5145798" vertical-offset="0" max-vertical-offset="583">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
